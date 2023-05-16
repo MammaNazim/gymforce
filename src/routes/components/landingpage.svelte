@@ -2,7 +2,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { fade } from 'svelte/transition';
-	import Saos from '/home/zim/Documents/my_svelte_projects/front-end-projects/prototypes/dummy-gym-website/node_modules/saos';
+    import Saos from "/node_modules/saos";
 
 	let showContent = false;
 	let isHovered = false;
