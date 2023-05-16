@@ -14,8 +14,8 @@
 
   ];
   let images2 = [
-    "src/images/activity.avif",
-    "src/images/boxing.avif"
+    "./src/images/activity.avif",
+    "./src/images/boxing.avif"
 
   ]
   onMount(() => {
