@@ -79,7 +79,7 @@
 	.part1 {
 		height: 200vh;
 		background-attachment: fixed;
-		background-image: url('static/lpbg.jpg');
+		background-image: url('https://drive.google.com/uc?export=view&id=1lnv_Y6OMnPBZU5zLz3khVsTKKv-1Q7rK');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;

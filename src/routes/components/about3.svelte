@@ -34,7 +34,7 @@
     main {
     height: 100vh;
     background-attachment: fixed;
-    background-image: url('static/lpbg2.jpg');
+    background-image: url('https://drive.google.com/uc?export=view&id=1IcgMVLiYdp8jsAtYf5LhEoEY8K_pat3e');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;

@@ -24,7 +24,7 @@
     }
     main{
         background-attachment: fixed;
-          background-image: url("%sveltekit.assets%/empty.avif") ;
+          background-image: url("https://drive.google.com/uc?export=view&id=1mTYkO-vL4S8S4SrbufeTiMVYaShj4BWL") ;
           background-repeat: no-repeat;
           background-size: cover;
           background-position: center;

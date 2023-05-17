@@ -4,18 +4,18 @@
   import Saos from "/node_modules/saos";
   
   let images = [
-   "static/barbellstock.avif",
-   "static/cage.avif",
-"static/rowing.avif",
-"static/stationary.avif",
-"static/treadmill.avif",
-"static/weights.avif",
+    "https://drive.google.com/uc?export=view&id=1QKdL8P0p_rVOU8ZFLoNguAq2jQTAohAp",
+    "https://drive.google.com/uc?export=view&id=1Sym5V3q1bm4ui_VExsDJB5cxjFl-_CIE",
+    "https://drive.google.com/uc?export=view&id=1c7rRCRYl0aSnH1fSmKSQ0yckQKGoZygq",
+    "https://drive.google.com/uc?export=view&id=1ukcQmBkEWwUxwd2CQORW5Sb3fja00ycM",
+    "https://drive.google.com/uc?export=view&id=1--UGrfInHL-DEYM6Olm11THo08imHah2",
+    "https://drive.google.com/uc?export=view&id=1JH1qg4N0sOR7Pa7-10gE1MM6b75sJrTz",
 
 
   ];
   let images2 = [
-    "static/activity.avif",
-    "static/boxing.avif"
+    "https://drive.google.com/uc?export=view&id=1i6ZFdsyoiMrNIubGQegnTHaU39gXpdde",
+    "https://drive.google.com/uc?export=view&id=1yDU5qzRHcAow76UyhYdtlFuad-ThqVTh"
 
   ]
   onMount(() => {
