@@ -34,7 +34,7 @@
     main {
     height: 100vh;
     background-attachment: fixed;
-    background-image: url('src/images/lpbg2.jpg');
+    background-image: url('static/lpbg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;

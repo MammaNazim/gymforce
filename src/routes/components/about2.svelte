@@ -4,18 +4,18 @@
   import Saos from "/node_modules/saos";
   
   let images = [
-   "src/images/barbellstock.avif",
-   "src/images/cage.avif",
-"src/images/rowing.avif",
-"src/images/stationary.avif",
-"src/images/treadmill.avif",
-"src/images/weights.avif",
+   "static/barbellstock.avif",
+   "static/cage.avif",
+"static/rowing.avif",
+"static/stationary.avif",
+"static/treadmill.avif",
+"static/weights.avif",
 
 
   ];
   let images2 = [
-    "./src/images/activity.avif",
-    "./src/images/boxing.avif"
+    "static/activity.avif",
+    "static/boxing.avif"
 
   ]
   onMount(() => {

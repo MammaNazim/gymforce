@@ -24,7 +24,7 @@
     }
     main{
         background-attachment: fixed;
-          background-image: url("src/images/empty.avif") ;
+          background-image: url("images/empty.avif") ;
           background-repeat: no-repeat;
           background-size: cover;
           background-position: center;

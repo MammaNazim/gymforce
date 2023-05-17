@@ -79,7 +79,7 @@
 	.part1 {
 		height: 200vh;
 		background-attachment: fixed;
-		background-image: url('./src/images/lpbg.JPG');
+		background-image: url('static/lpbg.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;

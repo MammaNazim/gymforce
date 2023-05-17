@@ -10,7 +10,7 @@
 <header class=" z-50 fixed w-screen bg-black py-4 px-6">
   <div class="container mx-auto flex justify-between items-center">
     <a href="/" class="flex items-center ">
-      <img src="src/images/barbell.png" alt="Gymforce Logo" class=" h-6 mr-2" />
+      <img src="static/barbell.png" alt="Gymforce Logo" class=" h-6 mr-2" />
       <h1 class="text-white text-2xl font-bold uppercase transition-colors duration-300">GYMFORCE</h1>
     </a>
 
