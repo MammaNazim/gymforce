@@ -17,7 +17,7 @@
     <nav class="space-x-4">
       <a href="/#about1" class="text-white  font-semibold transition-colors duration-300 text-lg bg-transparent hover:bg-green-500 hover:text-white py-2 px-4 rounded-full">About</a>
       <a href="/programs" class="text-white font-semibold transition-colors duration-300 text-lg bg-transparent hover:bg-green-500 hover:text-white py-2 px-4 rounded-full">Programs</a>
-      <a href="/contact" class="text-white font-semibold transition-colors duration-300 text-lg bg-transparent hover:bg-green-500 hover:text-white py-2 px-4 rounded-full">Coaching</a>
+      <a href="/contact" class="text-white font-semibold transition-colors duration-300 text-lg bg-transparent hover:bg-green-500 hover:text-white py-2 px-4 rounded-full">contact</a>
     </nav>
   </div>
 </header>
